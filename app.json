@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "illustrious Quran",
+    "slug": "Quran",
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/illustrious_Quran_icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/illustrious_Quran_splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.hasaanqari9.Quran"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/illustrious_Quran_adaptiveicon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.hasaanqari9.Quran"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b3000d2b-b33c-46b1-965d-76b9e0b5932a"
+      }
+    }
+  }
+}
