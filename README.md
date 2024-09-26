@@ -1,1 +1,1 @@
-Download app link (APK) : https://expo.dev/accounts/hasaanqari9/projects/Quran/builds/a5f9adf5-262b-4db1-84f0-8f4e738117c9
+Download app link (APK) : https://drive.google.com/file/d/1JFTRTM4kdr8Weqd9C5Tyegq5Eow_UpfL/view?usp=sharing
